@@ -18,5 +18,18 @@ Description: As if many of you face problem to run code and find errors the firs
 
 
 #Day1
-Starting with the most used and confusing topic to me ** ARRAY **
+Starting with the most used and confusing topic to me ** ARRAY Basics**
+
+#Day2
+After doing some array problem lets do some popular Searching and Sorting methods
+Sorting:    
+    - Selection
+    - Bubble
+    - Insertion
+    - Merge
+    - Heap
+    - Quick
+Searching:
+    - Linear
+    - Binary
 
